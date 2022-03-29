@@ -10,9 +10,9 @@ A comprehensive set of information that allows all stakeholders (past, present, 
 
 This project provides three different templates:
 
-- `DR-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
-- `goal-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflexion, to specify an overriding objective before building a project around it.
-- `prblm-template.md` allows to break down a problem or project and collectively seek solutions how to address it. It's the most collaborative of all templates, the closest to our Open Decision Framework, but also the more complex one. Choose it when starting a decision making involving a large number of contributors and/or when starting a complex project.
+- `DR-XX-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
+- `SG-XX-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
+- `PJ-XX-template.md` allows to break down a problem or project and collectively seek solutions on how to address it. It's the most collaborative of all templates, the closest to our Open Decision Framework, but also the more complex one. Choose it when starting a decision-making involving a large number of contributors or when starting a complex project.
 
 ### Decisions to Make Before Publishing
 
@@ -26,7 +26,7 @@ The ideal place is:
 This directory is the ideal place for most blindnet related topics, as it allows us to build a complete common fact base where all pieces of information can be easily linked together.
 
 Yet, we prefer to keep it as small as possible to ease readability and maintainability.
-When starting a new complexe project with a lot of decisions and information, the best option is often to build an independent Common Fact Base, and to refer to it in the following [Related Projects](#related-projects) section.
+When starting a new complex project with a lot of decisions and information, the best option is often to build an independent Common Fact Base, and to refer to it in the following [Related Projects](#related-projects) section.
 
 #### Who will be able to view this and other documents?
 
@@ -37,7 +37,7 @@ When starting a new complexe project with a lot of decisions and information, th
 
 ### Write and Publish
 
-> :construction: WIP: to be generalized (still too specific to `prblm-template.md`)
+> :construction: WIP: to be generalized (still too specific to `PJ-XX-template.md`)
 
 - Copy and paste a template file in this directory, a wiki page, or collaborative platform (e.g. as a Github issue)
 - Fill out all applicable fields.
@@ -46,7 +46,7 @@ When starting a new complexe project with a lot of decisions and information, th
   - You could incorporate it into an existing project wiki or website.
   - As your project or decision progresses, continue to build out new sections
     and add details. You might want to break this into smaller documents.
-- Use collaboration and feedback features to support your open decision making process (e.g. comments, polls).
+- Use collaboration and feedback features to support your open decision-making process (e.g. comments, polls).
 
 ### Make It Comprehensive, Yet Consumable
 

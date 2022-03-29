@@ -18,6 +18,11 @@ What is the exact goal?
 
 What are the non-goals?
 
+## Timeframe
+
+Start date: YYYY-MM-DD <!-- optionnal -->
+Due date: YYYY-MM-DD / QX YYYY
+
 ## Motivation
 
 What is the reason for the goal?
@@ -64,9 +69,9 @@ At this stage, we made sure this document is:
   - [ ] **Where** is it located? _(optional)_
   - [ ] **Which** resources or limits are involved? (I've thoroughly completed the [Obstacles and requirements](#obstacles-and-requirements) section.)
 - [ ] **Measurable**: The success toward meeting the goals can be measured. (I've thoroughly completed the [Expected outcome](#expected-outcome) section.)
-- [ ] **Achievable**: Goals are realistic, reasonable, and can be achieved in a specific amount of time.
+- [ ] **Achievable**: Goals are realistic, reasonable, and achievable in a specific amount of time.
 - [ ] **Relevant**: The goal and the expected result are aligned with current tasks and projects.
-  - [ ] I made sure no other issue in this project covers the same goal.
-  - [ ] I've set the proper labels for this issue.
+  - [ ] I made sure no other document covers the same goal.
+  - [ ] I've discussed this goal with the appropriate persons (PR review)
   - [ ] I've thoroughly completed the [References](#references)
-- [ ] **Time-bound**: The issue is associated with a milestone with a well-defined deadline.
+- [ ] **Time-bound**: A timeframe has been defined (I've thoroughly completed the [Timeframe](#timeframe) section.)
