@@ -10,7 +10,7 @@ Build an "inside community" with all the required tools and organization framewo
 
 During the defined period, all staff members will put themselves in the position of community members and act like so.
 
-Regular updates of our progress will be publicly reported, on social platforms and GitHub, to build awareness and attract potential community members. However, building developer engagement isn't part of this goal, as the following one will address it.
+Building developer engagement isn't part of this goal, as the following one will address it. Yet, we want our "internal community" to interact with "the outside world" as any other one, to share what we are doing and what we are proud of. With this purpose in mind, we'll regularly share our progress publicly, on social platforms and GitHub. This will be the opportunity to better collectively define our public communication process.
 
 ## Timeframe
 
@@ -43,6 +43,16 @@ Any 3rd party developer can easily have a clear understanding of:
 
 At the end of the defined period, we'll conduct an internal survey to confirm we met these goals.
 Optionally, a few 3rd party developers could also join this survey to avoid confirmation biases.
+
+### Public Communications
+
+The "internal community" activities should be visible and understandable from the outside.
+
+To make sure of that, guidelines will be defined to determine:
+
+- a "leader"/"reviewer" for each communication platform
+- precise goals and responsabilities for each platform "leader" and contributors
+- criteria to determine how to phrase a communication, and on which platform to post it
 
 ### Staff
 
@@ -82,6 +92,9 @@ The involvement and comprehension of all staff members will need constant monito
 
 Some new tools may require a supplemental budget.
 Associated discussions and decisions will need to be quickly undertaken with @Vuk-MD to avoid slowing down the related efforts.
+
+Finally, the whole process will require a lot of @noelmace's time and attention.
+As other goals and tasks arise, a lack of availability on his part might necessitate extending the due date.
 
 ## Stakeholders
 
