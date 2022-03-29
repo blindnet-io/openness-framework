@@ -84,7 +84,7 @@ Most repositories in the blindnet-io Github organization should have more than f
 
 ## Obstacles and requirements
 
-All staff members (including direction) will need to contribute to this effort continuously.
+All staff members (including direction) will need to constantly contribute to this effort.
 Skill improvement and adaptation will take time, which can impact productivity.
 
 Some unspoken misunderstandings could seriously undermine this effort.
