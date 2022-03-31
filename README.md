@@ -1,46 +1,45 @@
-# Blindnet Openness Framework
+# Blindnet Openness Framework and Knowledge Base
 
-## Background
+Blindnet is a software company on a mission to transform the world of software by bringing privacy back to the users, by restoring trust between users and software systems and by helping developers make software that users love and trust.
 
-**:construction: TODO :construction:**
+Trust and privacy can't go without Openness, which is why blindnet fully embraces [Open Organization](./definition.md) principles, and Openness as a whole, as a basis for our collaboration with the community.
 
-### Contributing
+In this project, you'll find all the material we create and use to support this idea, including guidelines, tools, documentation, and decisions records.
 
-All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/).
+## Contributing
 
-- [Learn more](CONTRIBUTING.md)
+This framework is still at a very early stage of development. Take a look, let us know what you think, especially if some piece of information you need is missing.
 
-### Modifying and forking
-
-Note: Modified versions must remove all blindnet branding, unless you are creating an official translation, making a pull request, or offering a suggestion for improving the original.
-
-## Feedback
-
-Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
+All suggestions and contributions are welcome. Please [open an issue](https://github.com/blindnet-io/openness/issues/new) to submit an idea or any simple feedback.
 
 ## What's inside
 
 ### Fundamentals
 
-- [Openness Principles](./principles.md)
-- ["Privacy is Openness" Manifesto](#)
+- [The Open Organization Definition](./definition.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Blindnet Openness Principles](./principles.md)
 
 ### Decisions
 
-- Our [Open Decision Framework](./Decisions/README.md)
-- [Common Fact Base](./Decisions/CommonFactBase/)
+- [Blindnet Decision Framework](./Decisions/README.md)
+- [Open Decision Framework](./Decisions/OPEN-DECISIONS.md)
+- [Common Fact Base Seed](./Decisions/CFB-seed/)
+- [Our Global Open Common Fact Base](./Decisions/)
 
 ### Open Source
 
-- :construction: TODO
+- [Checklist for blindnet Open Source Projects](./OpenSource/checkllist.md)
+- [Project Template](./OpenSource/template/)
+
+### Documentation
+
+- [How To Review](./docs/PR-review.md)
 
 ## Licensing
 
-The Blindnet Openness Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at blindnet, minus a few links to content on our intranet or other internal websites.
+The Blindnet Openness Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at blindnet, minus a few links to content on our intranet or other internal repositories.
 
-## Inspirations
+### Modifying and forking
 
-All documents in this project are largely inspired by the amazing work of the Open Source community, including:
-
-- [red-hat-people-team/open-decision-framework](https://github.com/red-hat-people-team/open-decision-framework)
-- **:construction: TODO :construction:**
+Modified versions must remove all blindnet branding, unless you are creating an official translation, making a pull request, or offering a suggestion for improving the original.

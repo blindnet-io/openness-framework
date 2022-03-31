@@ -37,9 +37,3 @@ Simple decisions can be recorded in a unique document. Just copy the most releva
 You don't have to write everything directly. Recording a decision isn't about saying _"hey, I made this choice, do you agree"_. Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
 
 More complex decisions may need several documents. When this is the case, create a directory, and follow the [inverted pyramid](https://www.s8080.com/blog-news/writing-detail-pages-information-pages) method.
-
-## Contributions and Feedback
-
-This framework is still at a very early stage of development. Take a look, and let us know what you think.
-
-All suggestions and contributions are welcome. Please [open an issue](https://github.com/blindnet-io/openness/issues/new) to submit an idea or any simple feedback.

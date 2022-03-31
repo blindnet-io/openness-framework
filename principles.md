@@ -1,4 +1,4 @@
-# Our Openness Principles
+# Blindnet Openness Principles
 
 ## Open exchange
 
