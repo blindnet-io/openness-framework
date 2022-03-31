@@ -1,5 +1,7 @@
 # {short title describing your goal}
 
+* Status: {proposed | rejected | accepted | deprecated | … | superseded by [XXX](XXX.md)} <!-- optional -->
+
 ## Context and Problem Statement
 
 Describe the context and problem statement (e.g. in free form using two to three sentences).

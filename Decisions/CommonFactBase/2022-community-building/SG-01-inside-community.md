@@ -1,5 +1,7 @@
 # Building an inside community
 
+* Status: proposed
+
 ## Context and Problem Statement
 
 Creating a coherent, efficient, and welcoming environment for 3rd party developers.
