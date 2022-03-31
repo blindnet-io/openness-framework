@@ -106,8 +106,8 @@ As other goals and tasks arise, a lack of availability on his part might necessi
 
 ## References
 
-- global [timeline](./planning.md)
-- blindnet-io/devrel-planning#12 - phase 1
+- global [timeline](./timeline.md)
+- _(outdated devrel-planning issue)_ [Community Building - set context, framework and tools #12](https://github.com/blindnet-io/devrel-planning/issues/12) - Phase 1: innersource & inside community
 
 ### Further readings
 
