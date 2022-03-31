@@ -1,4 +1,4 @@
-# [short title of solved problem and solution]
+# {short title describe this Open Decision project}
 
 ## Problem
 
@@ -19,10 +19,54 @@ Problem statement (_1-2 sentences_)
 
 ## Timeline
 
-| Phase      | Ideation + Research                                                                                                                                  | Prototyping + Testing                                                                                         | Development                                                                 | Launch                                                    |
-| :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :-------------------------------------------------------- |
-| Timing     | Jan - May 2017 <br/>\* _complete_ \*                                                                                                                 | Apr - Jun 2017 <br/>_ **in progress** _                                                                       | Jul 2017 - Aug 2017                                                         | Sep 2017                                                  |
-| Milestones | <ul><li>Gather ideas from stakeholders (link to details on ideation process + ideas gathered)</li><li>Identify up to 5 potential solutions</li></ul> | <ul><li>Build prototypes</li><li> Document limitations</li><li>Select solution for full development</li></ul> | <ul><li>Develop and harden solution</li><li>Identify launch risks</li></ul> | <ul><li>Roll out solution</li><li>30 day survey</li></ul> |
+<table>
+  <tr>
+    <th> Phase </th>
+    <th> Ideation + Research </th>
+    <th> Prototyping + Testing </th>
+    <th> Development </th>
+    <th> Launch </th>
+  </tr>
+  <tr>
+    <td> Timing </td>
+    <td> Feb - March 2022 <br/> <em>complete</em> </td>
+    <td> April 2022 <br/> <strong>in progress</strong> </td>
+    <td> May 2017 - Jun 2022 </td>
+    <td> Jul - Sept 2022 </td>
+  </tr>
+  <tr>
+    <td> Milestones </td>
+    <td>
+      <ul>
+        <li>
+          Gather ideas from stakeholders (link to details on ideation process + ideas gathered)
+        </li>
+        <li>
+          Identify up to 5 potential solutions
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Build prototypes </li>
+        <li> Document limitations </li>
+        <li> Select solution for full development </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Develop and harden solution </li>
+        <li> Identify launch risks </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Roll out solution </li>
+        <li> 30 day survey </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 - [View detailed timeline and project plan](#) (\*link to details, e.g. view-only smartsheet or other document)
 - Link key milestones in timeline to relevant documents and details, where people can learn more.
@@ -68,9 +112,10 @@ Based on our project team's experience and the scope of this project, we are aim
   - As your project progresses, update heading (e.g. "Approaches we're testing," then "Proposed solution").
 - [Learn about other solutions considered](#) (_link_)
 
-### Business Requirements
+### Expected Outcome
 
-- High-level, most important requirements (up to 5)
+Describe the most important expected outcomes (up to 5). Say what success will look like, and how you expect to concretely mesure it (with metrics and tangible productions).
+
 
 ### Constraints
 
