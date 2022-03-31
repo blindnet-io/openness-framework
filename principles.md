@@ -1,4 +1,4 @@
-# Openness Principles
+# Our Openness Principles
 
 ## Open exchange
 
@@ -14,10 +14,10 @@ Rapid prototypes can lead to rapid failures, and that leads to better solutions 
 
 ## Inclusivity
 
-Good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
+Good ideas can come from anywhere, and the best ideas win. As everyone has access to the same information, arguments are weighed equally based on the facts supporting them, not who expressed them. Only by including diverse perspectives in our conversations can we be certain we've identified the best ideas, and decision-makers continually seek those perspectives. With that purpose in mind, we collectively take actions to counterbalance prejudices related to age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 ## Community
 
 Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
 
-Adapted from: https://opensource.com/open-source-way
+_Adapted from: https://opensource.com/open-source-way_
