@@ -13,7 +13,8 @@ A **_choice_** is a conclusion or a resolution someone took individually, theref
 ### Guiding Principles
 
 1. Some decisions need to be made quickly. [Do not get attached to those](./shifting-priorities.md).
-2. Unrecorded decisions aren't _real_ decisions. [Record](#recording-decisions) all important decisions to ensure everyone can understand, assimilate and challenge them.
+2. Unrecorded decisions aren't _important_ decisions. [Record](#recording-decisions) all _important_ decisions to ensure everyone can understand, assimilate and challenge them.
+   - **_corollary_**: all decisions aren't _important_ decisions. You don't need to record decisions with no significant effects or minimal long-term impact.
 3. No decision is fixed in stone. Decisions can't last without being openly, thoroughly, and repeatedly challenged. Decisions Records have to be updated accordingly.
 
 ## Recording Decisions
@@ -34,6 +35,53 @@ Generic decisions impacting the whole organization should be recorded in this di
 
 Simple decisions can be recorded in a unique document. Just copy the most relevant template, edit its content, and make a pull request to discuss it with all stakeholders.
 
-You don't have to write everything directly. Recording a decision isn't about saying _"hey, I made this choice, do you agree"_. Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
-
 More complex decisions may need several documents. When this is the case, create a directory, and follow the [inverted pyramid](https://www.s8080.com/blog-news/writing-detail-pages-information-pages) method.
+
+### What Should I do?
+
+> :warning: **Never hesitate to share, but don't waste your time!**
+>
+> First, make sure the decision could impact someone else in a significant enough matter.
+>
+> After that, remember that recording a decision isn't about saying _"hey, I made this choice, do you agree"_.
+> Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
+>
+> Don't try to get everything right directly. Open a PR as soon as you've found a clear enough description for the problem, even if the document is only an early draft.
+
+```mermaid
+flowchart
+  Prblm{Do I have a problem?}
+  Blessed{Is there a<br>blessed solution?}
+  Doc{Is it documented?}
+  Understand{Do I fully<br>understand<br>the problem?}
+  Solution{Do I have a solution?}
+  Culture{Does It impact our culture<br>or drastically affect<br>people outside blindnet?}
+  GoalSet{Can I identify what<br>solving the problem<br>would look like?}
+  Discuss{Did I already discussed<br>this with the people involved?}
+  Impact{Could it still be useful<br>to someone else?}
+
+  Prblm -- Yes --> Blessed
+  Blessed -- No --> Understand
+  Blessed -- Yes --> Doc
+  Doc -- No --> DR
+  Understand -- No --> Issue
+  Understand -- Yes --> Solution
+  Solution -- No --> GoalSet
+  Solution -- Yes --> Culture
+  Culture -- Yes --> OD
+  Culture -- No --> Impact
+  Impact -- Yes --> DRDraft
+  GoalSet -- No --> Issue
+  GoalSet -- Yes --> Discuss
+  Discuss -- Yes --> Goal
+  Discuss -- No --> GoalDraft
+
+  DR([Write a DR])
+  DRDraft([Start a DR Draft])
+  OD([Init an Open Decision])
+  Goal([Write a SMART Goal])
+  GoalDraft([Start a SMART Goal Draft])
+  Issue([Open an Issue])
+```
+
+> Flowchart inspired by "[When Should I Write an Architecture Decision Record](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)" by Josef Blake.
