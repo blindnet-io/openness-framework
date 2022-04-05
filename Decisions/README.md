@@ -32,7 +32,7 @@ This framework provides a [CFB seed project](./CFB-seed/) with templates to ease
 
 Generic decisions impacting the whole organization should be recorded in this directory (i.e. the "Global Blindnet Open CFB").
 
-Simple decisions can be recorded in a unique document. Just copy the most relevant template, give it a unique id (`XXXX` > `OO19`), edit its content, and make a pull request to discuss it with all stakeholders.
+Simple decisions can be recorded in a unique document. Just copy the most relevant template, edit its content, and make a pull request to discuss it with all stakeholders.
 
 You don't have to write everything directly. Recording a decision isn't about saying _"hey, I made this choice, do you agree"_. Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
 
