@@ -51,36 +51,44 @@ More complex decisions may need several documents. When this is the case, create
 ```mermaid
 flowchart
   Prblm{Do I have a problem?}
-  Desc{Can I describe it in<br>one or two short<br>sentences?}
+  Desc{Can I describe this<br>problem in one or<br>two short sentences?}
   Blessed{Is there a<br>well established<br>or obvious solution?}
-  Doc{Is it documented?}
-  Understand{Do I fully<br>understand<br>the problem?}
-  Solution{Do I have a solution?}
-  Culture{Does It impact our culture<br>or drastically affect<br>people outside blindnet?}
-  GoalSet{Can I identify what<br>solving the problem<br>would look like?}
-  Discuss{Did I already discussed<br>this with the people involved?}
-  Impact{Could it still be useful<br>to someone else?}
-
-  Prblm -- Yes --> Desc -- Yes --> Blessed
+  Prblm -- Yes ---> Desc -- Yes ---> Blessed
   Desc -- No --> IM -.-> Desc
+
+  NoteDesc[Every decision recording starts with a short presentation<br>of the problem the decision should solve. Yet, this description<br>doesn't need to say anything about the solution itself,<br>or cover every detail of the problem.]
+  NoteDesc -.- Desc
+
+  Understand{Do I fully<br>understand<br>the problem?}
   Blessed -- No --> Understand
-  Blessed -- Yes --> Doc
-  Doc -- No --> DR
+  Blessed -- Yes --> DR
   Understand -- No --> Issue
+
+  Solution{Do I have a solution?}
   Understand -- Yes --> Solution
+
+  GoalSet{Can I identify what<br>solving the problem<br>would look like?}
   Solution -- No --> GoalSet
-  Solution -- Yes --> Culture
-  Culture -- Yes --> OD
-  Culture -- No --> Impact
-  Impact -- Yes --> DRDraft
   GoalSet -- No --> Issue
   GoalSet -- Yes --> Discuss
+
+  Culture{Does It impact our culture<br>or drastically affect<br>people outside blindnet?}
+  Solution -- Yes --> Culture
+  Culture -- Yes --> OD
+
+  Impact{Could it still be<br>useful to someone<br>in the future?}
+  NoteImpact[Me included]
+  Impact -.- NoteImpact
+  Culture -- No ---> Impact
+  Impact -- Yes ---> DRDraft
+
+  Discuss{Did I already discussed<br>this with the people involved?}
   Discuss -- Yes --> Goal
   Discuss -- No --> GoalDraft
 
   DR([Write a DR])
   DRDraft([Start a DR Draft])
-  OD([Init an Open Decision])
+  OD([Start an Open Decision Draft])
   Goal([Write a SMART Goal])
   GoalDraft([Start a SMART Goal Draft])
   Issue([Open an Issue])
