@@ -14,7 +14,6 @@ A **_choice_** is a conclusion or a resolution someone took individually, theref
 
 1. Some decisions need to be made quickly. [Do not get attached to those](./shifting-priorities.md).
 2. Unrecorded decisions aren't _important_ decisions. [Record](#recording-decisions) all _important_ decisions to ensure everyone can understand, assimilate and challenge them.
-   - **_corollary_**: all decisions aren't _important_ decisions. You don't need to record decisions with no significant effects or minimal long-term impact.
 3. No decision is fixed in stone. Decisions can't last without being openly, thoroughly, and repeatedly challenged. Decisions Records have to be updated accordingly.
 
 ## Recording Decisions
@@ -37,16 +36,14 @@ Simple decisions can be recorded in a unique document. Just copy the most releva
 
 More complex decisions may need several documents. When this is the case, create a directory, and follow the [inverted pyramid](https://www.s8080.com/blog-news/writing-detail-pages-information-pages) method.
 
-### What Should I do?
+### When Should I Record a Decision?
 
-> :warning: **Never hesitate to share, but don't waste your time!**
->
-> First, make sure the decision could impact someone else in a significant enough matter.
->
-> After that, remember that recording a decision isn't about saying _"hey, I made this choice, do you agree"_.
-> Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
->
-> Don't try to get everything right directly. Open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) as soon as you've found a clear enough description for the problem, even if the document is only an early draft.
+1. All decisions impacting staff members and the community in the long term should be recorded.
+1. All recorded decisions have to be linked to a problem they solve. If you can't clearly state this problem, you can't record a decision.
+1. If the decision won't last more than a few weeks, you don't need to record it using one of our templates. You can just open an issue or write an informal note instead for more efficiency.
+1. Never hesistate to share! If you identified a problem, but aren't sure about the solution or how to address it, just write a draft to start the discussion (i.e. put what little following the most appropriate template, and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+
+#### Step-by-Step
 
 ```mermaid
 flowchart
