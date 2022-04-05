@@ -51,7 +51,8 @@ More complex decisions may need several documents. When this is the case, create
 ```mermaid
 flowchart
   Prblm{Do I have a problem?}
-  Blessed{Is there a<br>blessed solution?}
+  Desc{Can I describe it in<br>one or two short<br>sentences?}
+  Blessed{Is there a<br>well established<br>or obvious solution?}
   Doc{Is it documented?}
   Understand{Do I fully<br>understand<br>the problem?}
   Solution{Do I have a solution?}
@@ -60,7 +61,8 @@ flowchart
   Discuss{Did I already discussed<br>this with the people involved?}
   Impact{Could it still be useful<br>to someone else?}
 
-  Prblm -- Yes --> Blessed
+  Prblm -- Yes --> Desc -- Yes --> Blessed
+  Desc -- No --> IM -.-> Desc
   Blessed -- No --> Understand
   Blessed -- Yes --> Doc
   Doc -- No --> DR
@@ -82,6 +84,7 @@ flowchart
   Goal([Write a SMART Goal])
   GoalDraft([Start a SMART Goal Draft])
   Issue([Open an Issue])
+  IM[Discuss it in Slack <br>or a meeting]
 ```
 
 > Flowchart inspired by "[When Should I Write an Architecture Decision Record](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)" by Josef Blake.
