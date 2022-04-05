@@ -46,7 +46,7 @@ More complex decisions may need several documents. When this is the case, create
 > After that, remember that recording a decision isn't about saying _"hey, I made this choice, do you agree"_.
 > Share your thoughts, make people challenge them, and reach a satisfying solution collectively.
 >
-> Don't try to get everything right directly. Open a PR as soon as you've found a clear enough description for the problem, even if the document is only an early draft.
+> Don't try to get everything right directly. Open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) as soon as you've found a clear enough description for the problem, even if the document is only an early draft.
 
 ```mermaid
 flowchart
