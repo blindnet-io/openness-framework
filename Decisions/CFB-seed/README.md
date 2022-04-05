@@ -10,9 +10,9 @@ A comprehensive set of information that allows all stakeholders (past, present, 
 
 This project provides three different templates:
 
-- `DR-XX-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
-- `SG-XX-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
-- `PJ-XX-template.md` allows to break down a problem or project and collectively seek solutions on how to address it. It's the most collaborative of all templates, but also the more complex one. Choose it when starting a decision-making involving a large number of contributors or when starting a complex project. See 
+- `XX-DR-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
+- `XX-SG-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
+- `XX-PJ-template.md` allows to break down a problem or project and collectively seek solutions on how to address it. It's the most collaborative of all templates, but also the more complex one. Choose it when starting a decision-making involving a large number of contributors or when starting a complex project. See 
 
 ### Decisions to Make Before Publishing
 

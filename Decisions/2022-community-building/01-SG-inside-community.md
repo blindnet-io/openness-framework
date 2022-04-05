@@ -1,6 +1,9 @@
 # Building an inside community
 
-* Status: proposed
+| Status      | proposed                                            |
+| :---------- | :-------------------------------------------------- |
+| **PR #**    | [4](https://github.com/blindnet-io/openness/pull/4) |
+| **Sponsor** | Noël Macé (noel@blindnet.io)                        |
 
 ## Context and Problem Statement
 

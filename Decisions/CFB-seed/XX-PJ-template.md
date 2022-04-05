@@ -1,5 +1,10 @@
 # {short title describe this Open Decision project}
 
+| Status      | {draft / proposed / rejected / accepted / deprecated / … / superseded by [XXX](XXX.md)} |
+| :---------- | :-------------------------------------------------------------------------------------- |
+| **PR #**    | [NNN](https://github.com/blindnet-io/PROJECT/pull/NNN) (update when you have PR #)      |
+| **Sponsor** | First-name Last-name (email)                                                            |
+
 ## Problem
 
 Problem statement (_1-2 sentences_)

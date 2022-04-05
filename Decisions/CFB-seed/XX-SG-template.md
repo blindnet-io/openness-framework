@@ -1,6 +1,9 @@
 # {short title describing your goal}
 
-* Status: {proposed | rejected | accepted | deprecated | … | superseded by [XXX](XXX.md)} <!-- optional -->
+| Status      | {draft / proposed / rejected / accepted / deprecated / … / superseded by [XXX](XXX.md)} |
+| :---------- | :-------------------------------------------------------------------------------------- |
+| **PR #**    | [NNN](https://github.com/blindnet-io/PROJECT/pull/NNN) (update when you have PR #)      |
+| **Sponsor** | First-name Last-name (email)                                                            |
 
 ## Context and Problem Statement
 
@@ -39,7 +42,7 @@ Why is it a problem? What data supports this? What related work exists?
 
 How will we determine if we meet the goal?
 
-What metrics are you going to use? 
+What metrics are you going to use?
 
 ## Obstacles and requirements
 
