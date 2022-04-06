@@ -4,10 +4,8 @@
 >
 > It enables a new software paradigm - it allows to build new kind of software, with privacy embedded in its design and architecture, meaning that the data that users generate and share is kept confidential even from the software itself and the ones controlling it.
 
-_This hight level architecture describes the conceptualisation behind blidnent’s software, in terms of the information it deals
-with and the reality it enables.
-This conceptualisation does not directly translate to any database structure, workflow or code. It
-aims to inform software designers’ thinking, guide design choices and reduce confusion._
+_This hight level architecture describes the conceptualisation behind blidnent’s software, in terms of the information it deals with and the reality it enables.
+This conceptualisation does not directly translate to any database structure, workflow or code. It aims to inform software designers’ thinking, guide design choices and reduce confusion._
 
 ## THE MAIN CONCEPT - DATA CAPTURE
 
@@ -43,7 +41,6 @@ Examples include: a file and a comment explaining it; a set of fields composing 
 
 <img width="350" alt="Capture fragments" src="https://user-images.githubusercontent.com/89908145/161936947-e97e3825-8da6-4220-b682-1504b82a4b65.png">
 
-
 The data structure of Data Caputre Fragments allows to have interface elements such as granular progress bars, or checklists to present to the user the state of completement of the submission.
 
 The granularity can also allow, when needed, to the data consumers to accept or reject certain fragments for reasons of readability/conformity, and make the submitter submit them again.
@@ -56,24 +53,17 @@ It may also favour incremental data submission (submit par of the for today, and
 
 Depending on the relationship between the submitter and the organization, as well as the context of data capture and use, a Data Capture can be associated with different legal grounds for collecting, keeping and treating data. Legal grounds impact the following properties of a particular Data Capture that our systems allows to compute:
 
--Data **CAN** be kept at a given time
+- Data **CAN** be kept at a given time
+- Data **MUST** be kept at a given time
 
--Data **MUST** be kept at a given time
-
-
-
- <br /> **See more about legal grounds** [here](https://www.cnil.fr/fr/les-bases-legales). More than one legal ground can exist for the same data at the same time. 
+**See more about legal grounds** [here](https://www.cnil.fr/fr/les-bases-legales). More than one legal ground can exist for the same data at the same time. 
 E.g.:
+ - A user can give explicit consent, and at the same time keeping the data might be mandatory; When the user revokes consent, the data must still continue to be kept.
+ - A service contract can exist between the user and the organization making the organization legitimate to keep the data, and at the same time the user might give consent. After contract has ended, the data can be kept until the user revokes consent and withing the maximal conservation time allowed by law. 
 
-• A user can give explicit consent, and at the same time keeping the data might be mandatory; When the user revokes consent, the data must still continue to be kept.
+The CAN/MUST-be-kept of the data at a given time is also constrained by [maximal conservation times defined by law](https://www.cnil.fr/fr/les-durees-de-conservation-des-donnees) or by minimal legally mandatory conservation time in certain domains (finance).
 
-• A service contract can exist between the user and the organization making the organization legitimate to keep the data, and at the same time the user might give consent. After contract has ended, the data can be kept until the user revokes consent and withing the maximal conservation time allowed by law.
-
- <br /> The CAN/MUST-be-kept of the data at a given time is also constrained by [maximal conservation times defined by law](https://www.cnil.fr/fr/les-durees-de-conservation-des-donnees) or by minimal legally mandatory conservation time in certain domains (finance).
-
-Such times are often relative to some event (e.g. data collection date, or a date when the submitter-organization relationship or contract has ended).
-
-<br /> 
+Such times are often relative to some event (e.g. data collection date, or a date when the submitter-organization relationship or contract has ended). 
 
 >_Managing legal ground should be a value-added service allowing to trigger automatic Data Capture deletion, or its protection from user-initiated deletion_
 
@@ -93,43 +83,34 @@ One consent corresponds to [one and only one purpose](https://www.cnil.fr/fr/les
 
 A data subject (person) has the right to demand different things related to his privacy, his data and his rights. Those things may be:
 
-• **General information** about policies, storage locations, practices and purposes of data treatment (unrelated to any particular Data Capture)
-
-• **Particular information** about Data Capture date, origin of data etc.
-
-• Data access and manipulation rights **related to a particular Data Capture or Data Capture Fragment**.
-
-• Opposition to treatment (can be denied if unreasonable i.e. if other legal ground
+- **General information** about policies, storage locations, practices and purposes of data treatment (unrelated to any particular Data Capture)
+- **Particular information** about Data Capture date, origin of data etc.
+- Data access and manipulation rights **related to a particular Data Capture or Data Capture Fragment**.
+- Opposition to treatment (can be denied if unreasonable i.e. if other legal ground
 exists)
 
- <br /> The system should allow to capture such requests, keep track of them, and on what is done to act upon them, and provide proof that the action upon the requests was compliant (rights given/denied according to law and in time).
+The system should allow to capture such requests, keep track of them, and on what is done to act upon them, and provide proof that the action upon the requests was compliant (rights given/denied according to law and in time).
  
-  <br /> Capturing requests related to a particular Data Capture or Data Capture Fragment requires user authentication.
+Capturing requests related to a particular Data Capture or Data Capture Fragment requires user authentication.
  
- <img width="275" alt="rights requests" src="https://user-images.githubusercontent.com/89908145/161943019-f86bbcf4-0820-478d-91a9-0a8b26b50d8f.png">
+<img width="275" alt="rights requests" src="https://user-images.githubusercontent.com/89908145/161943019-f86bbcf4-0820-478d-91a9-0a8b26b50d8f.png">
 
 ## DATA CAPTURE - STATES
 
 Data Captures have states. States can be observed on the Data Capture level, or on the level of a Data Capture Fragment.
 
 States concern different qualities, such as (not limited to):
+- **Submission** (captured or missing)
+- **Consumption** (viewed or new)
+- **Acceptance** (accepted, rejected, under review)
+- **Expiry** (In mandatory keeping, possible keeping, possible conservation expired, mandatory update pending)
 
-• **Submission** (captured or missing)
+Legal grounds also have states indicating if the data MUST or CAN be kept/deleted.
+  
+Rights requests also have states (e.g., received, denied, granted,...) – states relative to a particular request.
 
-• **Consumption** (viewed or new)
+Also, rights have states, meaning that in a particular state, a particular type of rights request MUST be rejected. For example, during mandatory keeping a DELETE request from the user MUST be rejected.
 
-• **Acceptance** (accepted, rejected, under review)
-
-• **Expiry** (In mandatory keeping, possible keeping, possible conservation expired, mandatory update pending)
-
- <br /> Legal grounds also have states indicating if the data MUST or CAN be kept/deleted.
- 
- <br /> Rights requests also have states (e.g., received, denied, granted,...) – states relative to a particular request.
- 
- <br /> Also, rights have states, meaning that in a particular state, a particular type of rights request MUST be rejected. For example, during mandatory keeping a DELETE request from the user MUST be rejected.
- 
- <br /> 
- 
  >_The information provided here is just for illustrative purposes and does not imply any definitive naming or semantics of actual states._
 
 ## DATA CAPTURE – INTEROPERABILITY
@@ -137,7 +118,6 @@ States concern different qualities, such as (not limited to):
 <img width="900" alt="interoperability" src="https://user-images.githubusercontent.com/89908145/161944880-73c29ca8-7450-493d-a828-b2090374ea32.png">
 
 More then one system can use our system to collect, store, and exploit data. In other words, the Data Capture can be generated by a submitter within one system, but the data consumers may be consuming the data using multiple different systems.
-
 
 Systems can exchange Data Captures without compromising the encryption of the data. In addition, they can use blindnet to pass any change of state, legal grounds, consents, or data-modifications, rights requests, etc. between systems.
 
@@ -156,11 +136,9 @@ Blindnet serves as a _lingua franca_ for both confidentiality (encryption) and c
 <img width="1200" alt="confidentiality" src="https://user-images.githubusercontent.com/89908145/161945403-05ade828-9308-4631-a194-655039acf6fa.png">
 
 Privacy, in a psychological sense, equals the freedom of an individual to engage/disengage from certain relationships (and identities such relationships project upon them). This freedom to engage/disengage in the context of internet interactions, relies on two main pillars:
+- **confidentiality** (the information being kept confidential from unintended data consumers or purposes)
+- **control** (impose actions over data to the data consumers by the data subject)
 
-• **confidentiality** (the information being kept confidential from unintended data consumers or purposes)
-
-• **control** (impose actions over data to the data consumers by the data subject)
-
- <br /> Confidentiality is enforced by policy and by encryption. Control is enforced by law. blindnet allows software systems to handle both.
+Confidentiality is enforced by policy and by encryption. Control is enforced by law. blindnet allows software systems to handle both.
  
- <br /> However, there must be a separation between the two allowing a developer to use blindnet only for one of these two purposes, and use an alternative solution for the other. E.g., a developer can use a non-encrypted web form to capture data, manage his own access to it, and still use blindnet for managing consent, and submitter rights requests.
+However, there must be a separation between the two allowing a developer to use blindnet only for one of these two purposes, and use an alternative solution for the other. E.g., a developer can use a non-encrypted web form to capture data, manage his own access to it, and still use blindnet for managing consent, and submitter rights requests.
