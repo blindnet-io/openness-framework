@@ -43,7 +43,17 @@ More complex decisions may need several documents. When this is the case, create
 1. If the decision won't last more than a few weeks, you don't need to record it using one of our templates. You can just open an issue or write an informal note instead for more efficiency.
 1. Never hesistate to share! If you identified a problem, but aren't sure about the solution or how to address it, just write a draft to start the discussion (i.e. put what little following the most appropriate template, and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
 
-#### Step-by-Step
+#### Questions to ask yourself
+
+As any documentation, recording a decision takes time and efforts.
+Try to see if recording the decision would have a good enough "ROI" for yourself and the community by asking:
+
+- Would explaining the decision again and again take less time than recording and constantly updating it?
+- Is there a better context or form for this kind of documentation/discussion (e.g. issue,  technical specification, mockup, or even some bullet points or diagram)?
+- How long will it last? Could this topic be soon outdated?
+- Does it impact enough people?
+
+Additionnally, you can refer to the following flowchart to help you better decide when and how to record something:
 
 ```mermaid
 flowchart
@@ -91,5 +101,3 @@ flowchart
   Issue([Open an Issue])
   IM[Discuss it in Slack <br>or a meeting]
 ```
-
-> Flowchart inspired by "[When Should I Write an Architecture Decision Record](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)" by Josef Blake.
