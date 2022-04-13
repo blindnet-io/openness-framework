@@ -19,6 +19,7 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 - [The Open Organization Definition](./definition.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Blindnet Openness Principles](./principles.md)
+- [Information Classification Levels](./information-classification.md)
 
 ### Decisions
 
