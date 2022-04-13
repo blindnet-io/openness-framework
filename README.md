@@ -1,4 +1,4 @@
-# Blindnet Openness Framework and Knowledge Base
+# Blindnet Openness Framework and documentation
 
 Blindnet is a software company on a mission to transform the world of software by bringing privacy back to the users, by restoring trust between users and software systems and by helping developers make software that users love and trust.
 
