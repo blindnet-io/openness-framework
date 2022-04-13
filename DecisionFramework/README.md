@@ -18,19 +18,18 @@ A **_choice_** is a conclusion or a resolution someone took individually, theref
 
 ## Recording Decisions
 
-All important decisions have to be recorded in a Common Fact Base.
+All important decisions have to be recorded in a Github Repository.
 
 We distinguish three types of documents:
 
 - **SMART Goals**, to propose and set a clear collective goal
 - **Decision Records**, to record simple decisions which don't require extensive discussions or have already been discussed elsewhere
-- **[Open Decisions](./OPEN-DECISIONS.md)**, to collectively find a solution to a complex problem that could impact our culture or drastically affect people outside blindnet
 
-This framework provides a [CFB seed project](./CFB-seed/) with templates to ease and guide decision recording.
+This framework provides associated [templates](./templates/) to ease and guide decision recording.
 
 ### Recording a Decision in This Project
 
-Generic decisions impacting the whole organization should be recorded in this directory (i.e. the "Global Blindnet Open CFB").
+Generic decisions impacting the whole organization should be recorded in the [`docs/`](../docs/) directory of this repository.
 
 Simple decisions can be recorded in a unique document. Just copy the most relevant template, edit its content, and make a pull request to discuss it with all stakeholders.
 

@@ -1,18 +1,18 @@
-# Common Fact Base
+# Blindnet Decision Templates
 
 ## What Is a Common Fact Base?
 
 A comprehensive set of information that allows all stakeholders (past, present, and future) to have a shared understanding of important facts and information about a given problem, project, or decision.
 
-## How to Use The Common Fact Base Templates
+## How to Use The Blindnet Decision Templates
 
 ### Choosing The Right Template
 
 This project provides three different templates:
 
-- `XX-DR-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
-- `XX-SG-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
-- `XX-PJ-template.md` allows to break down a problem or project and collectively seek solutions on how to address it. It's the most collaborative of all templates, but also the more complex one. Choose it when starting a decision-making involving a large number of contributors or when starting a complex project. See 
+- `DR-XXXX-template.md` is a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
+- `SG-XXXX-template.md` helps to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
+
 
 ### Decisions to Make Before Publishing
 
