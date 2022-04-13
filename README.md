@@ -23,10 +23,9 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 
 ### Decisions
 
-- [Blindnet Decision Framework](./Decisions/README.md)
-- [Open Decision Framework](./Decisions/OPEN-DECISIONS.md)
-- [Common Fact Base Seed](./Decisions/CFB-seed/)
-- [Our Global Open Common Fact Base](./Decisions/)
+- [Blindnet Decision Framework](./DecisionFramework/README.md)
+- [Templates](./DecisionFramework/templates/)
+- [Openness related Decision Records](./docs/decision-records/)
 
 ### Open Source
 
@@ -35,7 +34,8 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 
 ### Documentation
 
-- [How To Review](./docs/PR-review.md)
+- [HOWTOs](./docs/HOWTOs)
+- [misc references](./docs/refs/)
 
 ## Licensing
 
