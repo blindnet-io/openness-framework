@@ -2,7 +2,7 @@
 
 > See [Github documentation - reviewing changes in pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/) for more information
 
-![PR review steps](../assets/pr-review-steps.png)
+![PR review steps](../../assets/pr-review-steps.png)
 
 1. select the `files changes` tab to see what this pull request propose to change
 2. comment specific lines by clicking on the corresponding  `+` sign
