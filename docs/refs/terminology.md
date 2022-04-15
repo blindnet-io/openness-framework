@@ -35,7 +35,7 @@ See [Blindnet Openness Principles](../../principles.md)
 
 **_OSP_** (Open Source Program)
 
-- Politic of an organization defining its open-source use, contribution, and creation for strategic advantage.
+- Organizational policy defining open-source use, contribution, and creation for strategic advantage.
 - :information_source: Most companies defining an OSP do so by defining an OSPO (Open Source Program Office), a specific branch/team of the company in charge of this program, as this could include a wide variety of projects. At blindnet, we consider the OSP to be a core part of the company, and we share its responsibility among all employees.
 - See: [linuxfoundation.org, _Creating an Open Source Program_](https://www.linuxfoundation.org/tools/creating-an-open-source-program/)
 - Example: [Gitlab Open Source Program](https://about.gitlab.com/handbook/marketing/community-relations/opensource-program/)
