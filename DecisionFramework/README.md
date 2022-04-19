@@ -29,7 +29,10 @@ A **_choice_** is a conclusion or a resolution someone took individually, theref
 
 ## Where will you publish?
 
-All important decisions have to be recorded in one of the following Github repositories:
+You can add decision recording to a repository by copying [templates/decisions/](./templates/decisions/) to a `docs/` folder or root directory and then updating the `README.md` file.
+
+However, information dispersion across projects should be avoided as much as possible.
+For most cases, the pre-existing following repositories will be a much better option:
 
 <!-- prettier-ignore -->
 | access  | project | scope |
@@ -41,9 +44,7 @@ All important decisions have to be recorded in one of the following Github repos
 | private | [blindnet-io/clients-management](https://github.com/blindnet-io/clients-management) | restricted information related to our prospects and clients |
 | private | [blindnet-io/communication-management](https://github.com/blindnet-io/communication-management) | restricted communication related information |
 
-> :information_source: to add decision recording to a repository, copy [templates/decisions/](./templates/decisions/) to a `docs/` folder or root directory and update the `README.md` file
-
-Public repositories should always be favored over private repositories in respect of our  [information classification policy](../information-classification.md).
+Public repositories should always be favored over private repositories in respect of our [information classification policy](../information-classification.md).
 
 ## How will you write and publish?
 
