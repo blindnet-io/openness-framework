@@ -1,4 +1,4 @@
-# Blindnet Openness Framework and Knowledge Base
+# Blindnet Openness Framework and documentation
 
 Blindnet is a software company on a mission to transform the world of software by bringing privacy back to the users, by restoring trust between users and software systems and by helping developers make software that users love and trust.
 
@@ -19,13 +19,13 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 - [The Open Organization Definition](./definition.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Blindnet Openness Principles](./principles.md)
+- [Information Classification Levels](./information-classification.md)
 
 ### Decisions
 
-- [Blindnet Decision Framework](./Decisions/README.md)
-- [Open Decision Framework](./Decisions/OPEN-DECISIONS.md)
-- [Common Fact Base Seed](./Decisions/CFB-seed/)
-- [Our Global Open Common Fact Base](./Decisions/)
+- [Blindnet Decision Framework](./DecisionFramework/README.md)
+- [Templates](./DecisionFramework/templates/)
+- [Openness related Decision Records](./docs/decision-records/)
 
 ### Open Source
 
@@ -34,7 +34,8 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 
 ### Documentation
 
-- [How To Review](./docs/PR-review.md)
+- [HOWTOs](./docs/HOWTOs)
+- [misc references](./docs/refs/)
 
 ## Licensing
 
