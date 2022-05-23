@@ -10,11 +10,18 @@
 - [ ] Website features a project description of less than 100 words
 - [ ] Project description is consistent across platforms
 
-## Onboarding
+## Naming and Presentation
+
+- [ ] Project has a cool name that people can easily remember or reflects the purpose of the project
+- [ ] URL of the repository and title of the README contain the name of the project
+- [ ] URL of the repository and title of the README are clear, concise, and do not include any dispensable word
+
+## User documentation
 
 ### README
 
 - [ ] Project has README.md file in its root directory
+- [ ] README specifies the purpose of the project
 - [ ] README content is clear, concise, and complete
 - [ ] README content makes no infringements to the [plain language guidelines](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf)
 
@@ -23,41 +30,6 @@
 - [ ] Project has a cool name that people can easily remember
 - [ ] URL of the repository and title of the README contain the name of the project
 - [ ] URL of the repository and title of the README are clear, concise, and do not include any dispensable word
-
-### Onboarding guides
-
-- [ ] Project home page features a quickstart guide for new users
-- [ ] Project home page features a quickstart guide for new contributors
-- [ ] Installation and first usage of the project can be done in a few minutes by anyone
-- [ ] README explains installation and first usage in a few lines
-- [ ] README presents a minimum viable feature that hooks the user
-- [ ] Project is stable enough to offer this minimum viable feature without any bug or performance and security issue
-- [ ] README underlines at least one undebatable and objective strength of the project
-- [ ] Minimum viable feature confirms the presented strengths of the project
-
-### Communication channels
-
-- [ ] Project features communication channels exclusively for new users and contributors
-
-## Documentation
-
-- [ ] Documentation is available online
-- [ ] Documentation includes a complete yet straightforward tutorial
-- [ ] _(if applicable)_ Project as en embedded documentation (e.g. `--help` option for a CLI)
-- [ ] Documentation is thorough (covers all use cases and APIs)
-- [ ] All users and community members can easily find the documentation (i.e. a link exist and stand out in the README and website)
-- [ ] Documentation doesn't present any bug on any tool used to consult it (e.g. a documentation website can be read with any evergreen browser)
-- [ ] Anyone can easily report a documentation related issue
-- [ ] Anyone can easily contribute to the documentation
-- [ ] Community members are encouraged to propose improvements to the documentation
-- [ ] Documentation makes as few infringements to [plain language guidelines](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf) as possible
-- [ ] Documentation appears complete
-- [ ] Documentation is stylistically consistent 
-- [ ] Project features documentation specifically aimed at new users 
-- [ ] Project has thoroughly documented installation processes 
-- [ ] Project has thoroughly documented process of compiling source code 
-- [ ] Project documentation includes use case examples
-- [ ] Project creates and maintains documentation via automated processes
 
 ## License
 
@@ -76,6 +48,7 @@
 
 - [ ] The project includes a CONTRIBUTING.md file in its root directory
 - [ ] Project clearly identifies opportunities for contributions of different types (code, documentation, design, etc.)
+- [ ] Developer documentation include all installation steps, including prerequisites (with link to the specific part in the tool documentation whenever needed)
 
 ### Developer Documentation
 
@@ -97,7 +70,6 @@
 - [ ] Release process is automated and documented
 - [ ] Release process include clear guidelines to document changes and intentions in every release
 - [ ] All releases are well documented
-- [ ] Project has issued a release in the last 6 months
 - [ ] Project publish releases at consistent intervals
 - [ ] Project has implemented a quality assurance process
 - [ ] Project uses automated continuous integration and development tooling
