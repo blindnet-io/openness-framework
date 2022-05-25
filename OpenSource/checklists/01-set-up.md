@@ -25,12 +25,6 @@
 - [ ] README content is clear, concise, and complete
 - [ ] README content makes no infringements to the [plain language guidelines](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf)
 
-### Naming and Presentation
-
-- [ ] Project has a cool name that people can easily remember
-- [ ] URL of the repository and title of the README contain the name of the project
-- [ ] URL of the repository and title of the README are clear, concise, and do not include any dispensable word
-
 ## License
 
 - [ ] Project use a valid license according to the Blindnet Open Source Program
@@ -48,19 +42,18 @@
 
 - [ ] The project includes a CONTRIBUTING.md file in its root directory
 - [ ] Project clearly identifies opportunities for contributions of different types (code, documentation, design, etc.)
-- [ ] Developer documentation include all installation steps, including prerequisites (with link to the specific part in the tool documentation whenever needed)
 
 ### Developer Documentation
 
 - [ ] Repository includes a complete developer documentation
-- [ ] Developer documentation include all installation steps, including prerequisites (with link to the specific part in the tool documentation whenever needed)
+- [ ] Developer documentation includes all installation steps, including prerequisites (with link to the specific part in the tool documentation whenever needed)
 - [ ] Anyone, on any operating system, can fulfill the prerequisites for development (dev and testing tools) within an hour
 
 ### Testing
 
-- [ ] Repository include testing tools
-- [ ] Repository include unit tests
-- [ ] Repository include a complete documentation of esting tools, methodes and conventions
+- [ ] Repository includes testing tools
+- [ ] Repository includes unit tests
+- [ ] Repository includes a complete documentation of esting tools, methodes and conventions
 - [ ] Anyone can install testing tools and run the tests by only refering to the documentation
 
 ### Release management
