@@ -70,13 +70,13 @@ We distinguish three types of documents with associated [templates](./templates/
 
 Record simple decisions which don't require extensive discussions or have already been discussed elsewhere.
 
-Use [`SG-XXXX-template.md`](./templates/SG-XXXX-template.md) to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
+Use [`DR-XXXX-template.md`](./templates/DR-XXXX-template.md), a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
 
 ### SMART Goals
 
 Propose and set a clear collective goal.
 
-Use [`DR-XXXX-template.md`](./templates/DR-XXXX-template.md), a simpler, straightforward, and generic "Decision Record" template. It's the most obvious choice to record a simple decision, especially if it's closed to be made or was already made.
+Use [`SG-XXXX-template.md`](./templates/SG-XXXX-template.md) to clearly think and describe an objective to be met following the SMART goal method; It's often the better choice at an early stage of a reflection to specify an overriding objective before building a project around it.
 
 ### Request For Comments
 
