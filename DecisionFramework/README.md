@@ -98,7 +98,11 @@ Use [`RFC-XXXX-template.md`](./templates/RFC-XXXX-template.md) to help you bette
 1. All decisions impacting staff members and the community in the long term should be recorded.
 1. All recorded decisions have to be linked to a problem they solve. If you can't clearly state this problem, you can't record a decision.
 1. If the decision won't last more than a few weeks, you don't need to record it using one of our templates. You can just open an issue or write an informal note instead for more efficiency.
-1. Never hesistate to share! If you identified a problem, but aren't sure about the solution or how to address it, just write a draft to start the discussion (i.e. put what little following the most appropriate template, and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+1. **Never hesitate to share!** If you identified a problem, but aren't sure about the solution or how to address it, just write a draft to start the discussion (i.e. put what little following the most appropriate template, and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+
+> **DO create a draft PR as soon as possible.**
+>
+> Even if you just started to write some documents in a dedicated branch, a [Draft Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests) will provide a central place for people to ask questions and discuss any related matters, instead of spreading the information over several (sometimes unrelated) issues and discussions.
 
 ### Questions to ask yourself
 
