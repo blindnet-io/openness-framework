@@ -4,15 +4,15 @@
 
 ## Why We Need Openness
 
-In its broader sense, openness is mostly defined by negation. "Being open" means to "not be" closed, as boundaries allow to define closeness more clearly.
+In its broader sense, openness is mostly defined by negation. "Being open" means to "not be" closed, as boundaries allow defining closeness more clearly.
 
-The same idea goes for the more specific sense of openness we find in IT. IT mostly took shape during the cold war with the emergence of a "closed-world discourse[^1]" emphasizing security through obscurity and global surveillance. This discourse strongly influenced our vision of IT, and continues to do so today. We still tend to see code, innovation, and information as something we need to protect. We still think we need some kind of magical secret on which we could build benefits.
+The same idea goes for the more specific sense of openness we find in IT. IT mostly took shape during the Cold War with the emergence of a "closed-world discourse[^1]" emphasizing security through obscurity and global surveillance. This discourse strongly influenced our vision of IT, and continues to do so today. We still tend to see code, innovation, and information as something we need to protect. We still think we can harness benefits by holding on some kind of magical secret.
 
-But the era of secrets is long gone. Now, people expect access to all the information they need, whenever they need. Secrecy in business and technology is considered suspicious. Transparancy is key.
+But the era of secrets is long gone. Now, people expect access to all the information they need, whenever they need. Secrecy in business and technology is considered suspicious. Transparency is key.
 
-And it goes both ways. Customers are now using social platforms on a daily basis, constantly sharing and collaborating with their peers. Here again, secrecy is a far memory, but without necessarily leading privacy to its end. The public expect a control proportionnal to the amount of data it shares. It can't accept to be passive anymore. Companies now have to offer everyone both control over their data, and opportunities to actively contribute.
+And it goes both ways. Customers are now using social platforms on a daily basis, constantly sharing and collaborating with their peers. Here again, secrecy is a far memory, but without necessarily leading privacy to its end. Modern users share a large volume of data. They logically expect proportional control over this data. They can't accept to be passive anymore. Companies now have to offer everyone both control over their data, and opportunities to actively contribute.
 
-In short, the public now expect transparency and collaboration. This is precisely what openness is for.
+In short, the public now expects transparency and collaboration. This is precisely what openness is for.
 
 ## What Openness Means
 
@@ -26,7 +26,7 @@ To cite the Journal of Information Technology, Openness is the association of _"
 
 Now, all companies need to make money of course. For that, we need to answer the needs of our customers. And in a constantly changing world, knowing what the public actually wants is a real challenge[^3]. Building a successful product requires extensive surveys and tests (aka _"crowdsourcing"_) to improve market fit.
 
-Openness provides a framework to lessen these needs considerably. By building a project and company with constant contributions from outsiders, we are guaranteed to receive most feedback we need without any additional effort or spending. Better yet, Openness build strong long-terme genuine relations, where crowdsourcing only relies on short-term self-serving requests.
+Openness provides a framework to lessen these needs considerably. By building a project and company with constant contributions from outsiders, we are guaranteed to receive most feedback we need without any additional effort or spending. Better yet, Openness build strong long-term genuine relations, where crowdsourcing only relies on short-term self-serving requests.
 
 But this doesn't answer the main question all people have when talking about Open Businesses: how can we make money if we share our product with everyone? After all, companies like Louis Vuitton don't provide Open Specifications to show how to build my own luxury bag. There should be a good reason behind that, right?
 
@@ -40,22 +40,22 @@ Based on this image and constant innovation, a company can offer a large set of 
 
 - Software As a Service, to make the software easier to use, more stable, more efficient, etc.,
 - proprietary (i.e. "closed") extensions on top of an Open "core" to answer more specific needs,
-- Professionnal Services, like consulting, support and training,
+- Professional Services, like consulting, support and training,
 - and more.
 
 ## Why We Can't Afford Closeness
 
 Some companies can still manage to make money by selling proprietary software.
 
-First, there are Big Corps, like Microsoft or Oracle. Their first common denominator is a very strong and well-established brand. People can trust them because of this brand image, without needing to collaborate with them actively[^5]. Today, blindnet doesn't fit in this category. We are the new challenger who's here to disrupt the market with innovation and an outsider's perspective. We need to use weapons that fit this challenge.
+First, there are Big Corps, like Microsoft or Oracle. Their first common denominator is a very strong and well-established brand. A brand they can use to build trust from customers and collaborators, thus reducing their need for collaboration.[^5]. Today, blindnet doesn't fit in this category. We are the new challenger who's here to disrupt the market with innovation and an outsider's perspective. We need to use weapons that fit this challenge.
 
-Then, there are the products for non-technical people, on which the brand image and market fit can be built with traditional marketings tools like ads and surveys.
+Then, there are the products for non-technical people, on which the brand image and market fit can be built with traditional marketing tools like ads and surveys.
 
 At blindnet, our first goal is to address developers' needs. This audience isn't sensible to traditional marketing but has high expectations for openness and collaboration.
 
-Furthermore, we work on Data Privacy, which is a security matter. And no one still believes security can be achieved by secrecy. Everybody (especially developers) is aware that computers aren't trustworthy. We need to open the hood and check how the engine works. To ensure the security software we use can guarantee security by itself, using solutions like end-to-end cryptography.
+Furthermore, we work on Data Privacy, which is strongly linked to information security and trust. And no one still believes those topics can be addressed via secrecy. Everybody (especially developers) is aware that computers aren't trustworthy. We need to open the hood and check how the engine works. To ensure the security software we use can guarantee security by itself, using solutions like end-to-end cryptography.
 
-At blindnet, we strongly believe this is the only option as we enable developers build softwares users love and trust. That Openness and Privacy are two sides of the same coin. People's trust in us is based on facts, and nothing else.
+At blindnet, we strongly believe this is the only option as we enable developers build software users love and trust. That Openness and Privacy are two sides of the same coin. People's trust in us is based on facts, and nothing else.
 
 
 [^1]: Paul N. Edwards, _[The Closed World](https://mitpress.mit.edu/books/closed-world)_ (MIT Press, 1996)
