@@ -47,13 +47,12 @@
 
 - [ ] Repository includes a complete developer documentation
 - [ ] Developer documentation includes all installation steps, including prerequisites (with link to the specific part in the tool documentation whenever needed)
-- [ ] Anyone, on any operating system, can fulfill the prerequisites for development (dev and testing tools) within an hour
 
 ### Testing
 
 - [ ] Repository includes testing tools
 - [ ] Repository includes unit tests
-- [ ] Repository includes a complete documentation of esting tools, methodes and conventions
+- [ ] Repository includes a complete documentation of testing tools, methodes and conventions
 - [ ] Anyone can install testing tools and run the tests by only refering to the documentation
 
 ### Release management
@@ -67,7 +66,7 @@
 - [ ] Project has implemented a quality assurance process
 - [ ] Project uses automated continuous integration and development tooling
 - [ ] Project releases are available from consistent download location
-- [ ] Project releases software in multiple formats
+- [ ] (_if applicable_) Project releases software in multiple formats (e.g. UMD and ESM formats for JS libraries)
 
 ### Activity
 
