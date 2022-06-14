@@ -53,7 +53,7 @@ Public repositories should always be favored over private repositories in respec
     - Note that you can also just copy and paste the template's content to create a Github issue
     - Just try to follow the instructions/conventions of the associated project. Some even provide issue templates to ease the process.
 1. Fill out all applicable fields.
-1. Send a Pull Request
+1. Send a Pull Request, in accordance with [DR-0002](../docs/decision-records/DR-0002-dr-validation.md)
 1. Use collaboration and feedback features to support your decision-making process (e.g. comments, reviews, polls).
 
 ### Make It Comprehensive, Yet Consumable
