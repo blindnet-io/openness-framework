@@ -30,7 +30,7 @@ Different options have been considered in the discussion that took place in [iss
 
 ### Validation protocol for template-based decisions
 
->This protocol applies when recording **decisions** that follow the Decision Framework and use one of [its specific document templates](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework#what-template-will-you-use).
+> This protocol applies when recording **decisions** that follow the Decision Framework and use one of [its specific document templates](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework#what-template-will-you-use).
 
 In the beginning there are the **Authors** - one or more Collaborators or Contributors.
 One of them, the **Corresponding Author**, writes the **Decision Recording** and is committed to championing it through the process.
