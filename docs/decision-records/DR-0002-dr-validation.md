@@ -7,7 +7,7 @@
 
 ## Context and Problem Statement
 
-As blindnet [decided](https://github.com/blindnet-io/devrel-planning/issues/49) to fully embrace Openness principles, and has put in place a [Decision Framework](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework), the need has emerged to establish more clarity in the process of proposing and approving Decision Records.
+As blindnet [decided](https://github.com/blindnet-io/devrel-management/issues/32) to fully embrace Openness principles, and has put in place a [Decision Framework](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework), the need has emerged to establish more clarity in the process of proposing and approving Decision Records.
 
 ## Terminology
 
