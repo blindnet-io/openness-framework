@@ -67,7 +67,7 @@ When such an assignment is not possible, then the Assignee SHOULD be the first e
 
 ### Validation protocol for non template-based documents
 
->This protocol applies, unless a particular project-related workflow is specified in the project's readme file, when producing other types of documents that MAY also involve more or less normative **choices** and even certain **decisions** (e.g. user stories, specifications, designs, documentation work, code) but that do not use one of the [Decision Framework's specific document templates](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework#what-template-will-you-use)
+> This protocol applies, unless a particular project-related workflow is specified in the project's readme file, when producing other types of documents that MAY also involve more or less normative **choices** and even certain **decisions** (e.g. user stories, specifications, designs, documentation work, code) but that do not use one of the [Decision Framework's specific document templates](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework#what-template-will-you-use)
 
 One of the Authors, the **Corresponding Author**, makes a PR.
 They invite Reviewers other than themselves.
