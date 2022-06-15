@@ -13,8 +13,8 @@ You can also just add comments like this one to discuss this PR in general, but 
 
 # Best Practice for Reviews
 
-- Whenever possible, include a concrete suggestion on what you propose to change instead of just describing it in a comment. This done with by clicking on a +- sign on the Github interface, [see detailed instructions here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request). This ways authors can easily accept your suggestions by a simple click of a button.
+- Whenever possible, include a concrete suggestion on what you propose to change instead of just describing it in a comment. This is done by clicking on a +- sign on the Github interface, [see detailed instructions here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request). This way authors can easily accept suggestions by a simple click of a button.
 
 - If you strongly disagree with something, include the "FORMAL OBJECTION" keyword in your Review. It will help the Assignee clearly spot the lack of consensus. Make sure to motivate your objection with objective arguments.
 
-- When reasons for your "FORMAL OBJECTION" have been addressed, or you have changed your mind after a discussion, you can indicate in a comment "FORMAL OBJECTION LIFTED". This will help the Assignee clearly establish that your comment is not logner an obstacle for consensus.
+- When reasons for your "FORMAL OBJECTION" have been addressed, or you have changed your mind after a discussion, you can indicate in a comment "FORMAL OBJECTION LIFTED". This will help the Assignee clearly establish that your comment is no longer an obstacle for consensus.
