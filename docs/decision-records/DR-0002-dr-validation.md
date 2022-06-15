@@ -63,7 +63,7 @@ Whenever possible (unless they are not eligible, or for other reasons known to b
 3. `@milstan` for everything related to our company's "vision" and high-level concepts (i.e. high-level product ownership)
 4. `@Vuk-BN` for everything related to global executive strategies and finances
 
-When such assignment is not possible, the then the Assignee SHOULD be the first eligible and available person from the above list, in the order from 1. to 4.
+When such an assignment is not possible, then the Assignee SHOULD be the first eligible and available person from the above list, in the order from 1. to 4.
 
 ### Validation protocol for non template-based documents
 
