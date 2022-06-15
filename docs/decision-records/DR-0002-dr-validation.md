@@ -53,8 +53,13 @@ The **Corresponding Author** OR the **Sponsor** MUST assign the **Decision Recor
 The Assignee MAY also be a Reviewer.
 
 The Assignee looks for consensus before merging the **Decision Recording** Pull Request.
+The Assignee SHOULD act to have the proposal converge towards a consensus.
+The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews]([review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews))).
+In that case, the Assignee MUST consider that there is absence of consensus as long as the Reviewer in question has not indicated `FORMAL OBJECTION LIFTED`.
 In clear absence of consensus the Assignee closes the request.
 It is the responsibility of the Assignee to act and not let PR remain at a stale point.
+
+An alternative **Decision Recording** MAY always be proposed.
 
 Whenever possible (unless they are not eligible, or for other reasons known to be unavailable), the Assignee SHOULD be:
 
@@ -75,11 +80,14 @@ Anyone MAY [review a PR](https://github.com/blindnet-io/openness-framework/blob/
 
 The **Corresponding Author** assigns a person (other than themselves, which MAY also be a Reviewer, in the same order as for template-based decisions).
 
-The Assignee looks for consensus before merging the PR.
+The Assignee looks for consensus before merging the Pull Request.
+The Assignee SHOULD act to have the proposal converge towards a consensus.
+The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews]([review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews))).
+In that case, the Assignee MUST consider that there is absence of consensus as long as the Reviewer in question has not indicated `FORMAL OBJECTION LIFTED`.
 In clear absence of consensus the Assignee closes the request.
 It is the responsibility of the Assignee to act and not let PR remain at a stale point.
 
-
+An alternative document MAY always be proposed.
 
 ## References
 
