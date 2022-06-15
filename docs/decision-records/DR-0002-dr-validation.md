@@ -70,7 +70,7 @@ When such assignment is not possible, the then the Assignee SHOULD be the first 
 >This protocol applies, unless a particular project-related workflow is specified in the project's readme file, when producing other types of documents that MAY also involve more or less normative **choices** and even certain **decisions** (e.g. user stories, specifications, designs, documentation work, code) but that do not use one of the [Decision Framework's specific document templates](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework#what-template-will-you-use)
 
 One of the Authors, the **Corresponding Author**, makes a PR.
-They invite Reviewers others then themselves.
+They invite Reviewers other than themselves.
 Anyone MAY [review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md), therefore designating themselves as a **Reviewer**.
 
 The **Corresponding Author** assigns a person (other than themselves, which MAY also be a Reviewer, in the same order as for template-based decisions).
