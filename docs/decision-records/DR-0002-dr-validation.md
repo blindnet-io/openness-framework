@@ -17,7 +17,7 @@ As blindnet [decided](https://github.com/blindnet-io/devrel-planning/issues/49) 
 - The terms "Assignee", "Collaborator", "Contributor", "Pull Request" (same as "PR"), and "Review" are to be interpreted as described in the [Github Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - A Reviewer is a Collaborator asked to do a Review of a Pull Request
 
-## Decision Drivers <!-- optional -->
+## Decision Drivers
 
 * High clarity for Collaborators and Contributors about who should do what in order for a **Decision Recording** Pull Request to be validated
 * Avoid getting the **Decision Recording** Pull Request validation process in a stale point
