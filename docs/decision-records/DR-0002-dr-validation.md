@@ -1,6 +1,6 @@
 # Decision Recording Pull Request Validation Protocol
 
-| Status     | proposed                                                        |
+| Status     | accepted                                                        |
 | :--------- | :-------------------------------------------------------------- |
 | **PR #**   | [31](https://github.com/blindnet-io/openness-framework/pull/31) |
 | **Author** | milstan (milstan@blindnet.io)                                   |
