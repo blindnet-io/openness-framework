@@ -78,7 +78,7 @@ One of the Authors, the **Corresponding Author**, makes a PR.
 They invite Reviewers other than themselves.
 Anyone MAY [review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md), therefore designating themselves as a **Reviewer**.
 
-The **Corresponding Author** assigns a person (other than themselves, which MAY also be a Reviewer, in the same order as for template-based decisions).
+The **Corresponding Author** designates an **Assignee**, a person other than themselves (which MAY also be a Reviewer, in the same order as for template-based decisions).
 
 The Assignee looks for consensus before merging the Pull Request.
 The Assignee SHOULD act to have the proposal converge towards a consensus.
