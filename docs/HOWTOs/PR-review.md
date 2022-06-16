@@ -11,7 +11,7 @@
 
 You can also just add comments like this one to discuss this PR in general, but they won't be associated with a review.
 
-# Best Practice for Reviews
+## Best Practice for Reviews
 
 - Whenever possible, include a concrete suggestion on what you propose to change instead of just describing it in a comment. This is done by clicking on a +- sign on the Github interface, [see detailed instructions here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request). This way authors can easily accept suggestions by a simple click of a button.
 

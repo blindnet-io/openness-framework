@@ -1,9 +1,9 @@
 # Decision Recording Pull Request Validation Protocol
 
-| Status      | proposed                                            |
-| :---------- | :-------------------------------------------------- |
-| **PR #**    | [31](https://github.com/blindnet-io/openness-framework/pull/31) |
-| **Author** | milstan (milstan@blindnet.io)                        |
+| Status     | proposed                                                        |
+| :--------- | :-------------------------------------------------------------- |
+| **PR #**   | [31](https://github.com/blindnet-io/openness-framework/pull/31) |
+| **Author** | milstan (milstan@blindnet.io)                                   |
 
 ## Context and Problem Statement
 
@@ -19,8 +19,8 @@ As blindnet [decided](https://github.com/blindnet-io/devrel-management/issues/32
 
 ## Decision Drivers
 
-* High clarity for Collaborators and Contributors about who should do what in order for a **Decision Recording** Pull Request to be validated
-* Avoid getting the **Decision Recording** Pull Request validation process in a stale point
+- High clarity for Collaborators and Contributors about who should do what in order for a **Decision Recording** Pull Request to be validated
+- Avoid getting the **Decision Recording** Pull Request validation process in a stale point
 
 ## Considered Options
 
@@ -38,6 +38,7 @@ One of them, the **Corresponding Author**, writes the **Decision Recording** and
 Collaborators typically have a `@blindnet.io` e-mail address or are otherwise invited to that role.
 If an only if, the **Corresponding Author** is not a Collaborator, they MUST find a Sponsor.
 A **Sponsor** is a Collaborator who shepherds the decision record through the validation process and makes sure:
+
 - (during the validation process / PR Review) that the **Corresponding Author** is actually heard, the proposal considered, and the process respected
 - (after the decision has been recorded / PR merged) the **decision** is applied, respected and understood (i.e. if someone has a question about this **decision**, they should reach to the **Sponsor**)
 
@@ -54,7 +55,7 @@ The Assignee MAY also be a Reviewer.
 
 The Assignee looks for consensus before merging the **Decision Recording** Pull Request.
 The Assignee SHOULD act to have the proposal converge towards a consensus.
-The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews]([review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews))).
+The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews)).
 In that case, the Assignee MUST consider that there is absence of consensus as long as the Reviewer in question has not indicated `FORMAL OBJECTION LIFTED`.
 In clear absence of consensus the Assignee closes the request.
 It is the responsibility of the Assignee to act and not let PR remain at a stale point.
@@ -82,7 +83,7 @@ The **Corresponding Author** designates an **Assignee**, a person other than the
 
 The Assignee looks for consensus before merging the Pull Request.
 The Assignee SHOULD act to have the proposal converge towards a consensus.
-The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews]([review a PR](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews))).
+The Assignee is sovereign in interpretation of what a concuss is, unless a `FORMAL OBJECTION` has been raised by a Reviewer (according to [Best Practice for Reviews](https://github.com/blindnet-io/openness-framework/blob/main/docs/HOWTOs/PR-review.md#best-practice-for-reviews)).
 In that case, the Assignee MUST consider that there is absence of consensus as long as the Reviewer in question has not indicated `FORMAL OBJECTION LIFTED`.
 In clear absence of consensus the Assignee closes the request.
 It is the responsibility of the Assignee to act and not let PR remain at a stale point.
@@ -91,4 +92,4 @@ An alternative document MAY always be proposed.
 
 ## References
 
-* The [Decision Framework](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework)
+- The [Decision Framework](https://github.com/blindnet-io/openness-framework/tree/main/DecisionFramework)
