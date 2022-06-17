@@ -11,9 +11,9 @@ Before making this decision, blindnet only had a mission statement:
 
 > « Helping developers make software that users love and trust. »
 
-A mission only factually state what an organization is **currently trying** to accomplish.
+A mission only factually states **what** an organization is trying to accomplish.
 
-A purpose statement stays necessary to simply state why the organization exist as a collective, and what drives this collective on a daily basis.
+A purpose statement is necessary to state **why** the organization exist as a collective, and what drives this collective on a daily basis.
 
 A [thorough collective discussion](https://github.com/blindnet-io/communication-management/issues/86) involving all blindnet's staff members has been conducted to address this matter, leading to a simple and straightforward purpose statement everyone agrees on and embrace.
 
@@ -26,6 +26,11 @@ The purpose statement has to:
 - avoid any confusing, ambiguous or jargonistic term
 - be short (few words)
 - be easy to remember and say
+
+The purpose statement is not:
+
+- a slogan
+- a vision statement
 
 ## Considered Options
 
@@ -115,5 +120,6 @@ The purpose statement has to:
 ## Links
 
 - [Notions of Privacy](https://github.com/blindnet-io/product-management/blob/main/refs/notion-of-privacy/notion-of-privacy.md)
+- [HBR: The Difference Between Purpose and Mission](https://hbr.org/sponsored/2016/02/the-difference-between-purpose-and-mission)
 
 <!-- markdownlint-disable-file MD013 -->
