@@ -18,8 +18,6 @@
   <a href="https://www.angular.io"><strong>{website.x}</strong></a>
 </p>
 
-
-
 <p align="center">
   <a href="#">Documentation</a>
   &nbsp;•&nbsp;
