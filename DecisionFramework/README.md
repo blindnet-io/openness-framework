@@ -112,7 +112,7 @@ Use [`RFC-XXXX-template.md`](./templates/RFC-XXXX-template.md) to help you bette
 > 
 > - the central place for discussion is clearly defined and presented
 > - everyone involved can access it and contribute
-> - everything is recorded and will stay accessible in the futur
+> - everything is recorded and will stay accessible in the future
 
 ### Questions to ask yourself
 
