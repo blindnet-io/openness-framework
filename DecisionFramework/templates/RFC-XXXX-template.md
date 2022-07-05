@@ -3,9 +3,9 @@
 | Status        | {draft / proposed / rejected / accepted / deprecated / … / superseded by [XXX](XXX.md) |
 | :------------ | :------------------------------------------------------------------------------------- |
 | **PR #**      | [NNN](https://github.com/blindnet-io/PROJECT/pull/NNN) (update when you have PR #)     |
-| **Author(s)** | My Name (me@example.org), AN Other (you@example.org)                                   |
-| **Sponsor**   | A N Expert (whomever@blindnet.io)                                                      |
-| **Updated**   | YYYY-MM-DD                                                                             |
+| **Author(s)** | First-name Last-name (email)<br />First-name Last-name (email)                          |
+| **Sponsor**   | First-name Last-name (email)                                                            |
+| **Keywords**  |                                                                                         |
 
 ## Objective
 

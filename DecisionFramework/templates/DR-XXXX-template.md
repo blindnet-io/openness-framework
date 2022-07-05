@@ -1,9 +1,11 @@
 # {short title of solved problem and solution}
 
-| Status      | {draft / proposed / rejected / accepted / deprecated / … / superseded by [XXX](XXX.md)} |
-| :---------- | :-------------------------------------------------------------------------------------- |
-| **PR #**    | [NNN](https://github.com/blindnet-io/PROJECT/pull/NNN) (update when you have PR #)      |
-| **Sponsor** | First-name Last-name (email)                                                            |
+| Status         | {draft / proposed / rejected / accepted / deprecated / … / superseded by [XXX](XXX.md)} |
+| :------------- | :-------------------------------------------------------------------------------------- |
+| **PR #**       | [NNN](https://github.com/blindnet-io/PROJECT/pull/NNN) (update when you have PR #)      |
+| **Author(s)**  | First-name Last-name (email)<br />First-name Last-name (email)                          |
+| **Sponsor**    | First-name Last-name (email)                                                            |
+| **Keywords**   |                                                                                         |
 
 ## Context and Problem Statement
 
