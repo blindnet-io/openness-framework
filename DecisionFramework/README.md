@@ -37,7 +37,7 @@ For most cases, the pre-existing following repositories will be a much better op
 <!-- prettier-ignore -->
 | access  | project | scope |
 | ------- | ------- | ----- |
-| public  | [blindnet-io/blindnet-docs](https://github.com/blindnet-io/blindnet-docs) | developer portal ([blindnet.dev](https://blindnet.dev/)) |
+| public  | [blindnet-io/blindnet.dev](https://github.com/blindnet-io/blindnet-docs) | developer portal ([blindnet.dev](https://blindnet.dev/)) |
 | public  | [blindnet-io/openness-framework](https://github.com/blindnet-io/openness-framework) | Blindnet Openness Framework and documentation |
 | public  | [blindnet-io/devrel-management](https://github.com/blindnet-io/devrel-management) | management of developer relations matters |
 | public  | [blindnet-io/product-management](https://github.com/blindnet-io/product-management) | feedback and evolution tracking by and for blindnet team members |
