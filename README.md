@@ -29,7 +29,7 @@ All suggestions and contributions are welcome. Please [open an issue](https://gi
 
 ### Open Source
 
-- [Checklist for blindnet Open Source Projects](./OpenSource/checkllist.md)
+- [Checklist for blindnet Open Source Projects](./OpenSource/checklists)
 - [Project Template](./OpenSource/template/)
 
 ### Documentation
