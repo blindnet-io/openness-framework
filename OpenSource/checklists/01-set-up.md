@@ -1,20 +1,24 @@
 # Set Up
 
-## Basics
+## Repository and Issue Tracking
 
 - [ ] Code repositories and issue trackers are present (best options: GitHub or Gitlab)
 - [ ] No special permission or specific institutional affiliation is required to access the repositories and issue trackers
 - [ ] No special permission or specific institutional affiliation is required to clone, build and run the project
+- [ ] Issue tracker had been set up according to blindnet's conventions
+
+## Website
+
 - [ ] Project has an associated website
 - [ ] No special permission or specific institutional affiliation is required to access any page of the website
 - [ ] Website features a project description of less than 100 words
-- [ ] Project description is consistent across platforms
 
 ## Naming and Presentation
 
 - [ ] Project has a cool name that people can easily remember or reflects the purpose of the project
 - [ ] URL of the repository and title of the README contain the name of the project
 - [ ] URL of the repository and title of the README are clear, concise, and do not include any dispensable word
+- [ ] Project description is consistent across platforms
 
 ## User documentation
 
