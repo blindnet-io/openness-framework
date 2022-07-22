@@ -65,11 +65,10 @@ An alternative **Decision Recording** MAY always be proposed.
 Whenever possible (unless they are not eligible, or for other reasons known to be unavailable), the Assignee SHOULD be:
 
 1. `@noelmace` for everything related to communication, openness framework, DevX and DevRel in general
-2. `@filipblnt` for everything related to engineering, by default (adding a member of the engineering team as an additional Reviewer whenever needed)
-3. `@milstan` for everything related to our company's "vision" and high-level concepts (i.e. high-level product ownership)
-4. `@Vuk-BN` for everything related to global executive strategies and finances
+2. `@milstan` for everything related to our company's product, including engineering, "vision" and high-level concepts (i.e. high-level product ownership)
+3. `@Vuk-BN` for everything related to global executive strategies and finances
 
-When such an assignment is not possible, then the Assignee SHOULD be the first eligible and available person from the above list, in the order from 1. to 4.
+When such an assignment is not possible, then the Assignee SHOULD be the first eligible and available person from the above list, in the order from 1. to 3.
 
 ### Validation protocol for non template-based documents
 
